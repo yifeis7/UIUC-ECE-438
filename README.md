@@ -7,7 +7,7 @@ This project provides a simulated TCP protocol for reliable data transmission us
 - Simulated TCP protocol for reliable data transmission using UDP sockets
 - Precise simulation of TCP congestion control, including slow start, fast recovery, and congestion avoidance states
 - Handling of packet delays and losses in data transmission
-- Bandwidth fairness between concurrent TCP connections, ensuring that the implementation can use $\pm 50 \% $ of the bandwidth of a real TCP connection in the worst case.
+- Bandwidth fairness between concurrent TCP connections, ensuring that the implementation can use ±50% of the bandwidth of a real TCP connection in the worst case.
 
 ## Usage
 
